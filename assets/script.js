@@ -1,3 +1,8 @@
+// Variables
+var startButton = document.getElementById("startButton");
+var countdownEl = document.getElementById("countdown");
+var startDiv = document.getElementById("start-page");
+
 // Starts the game
 function startGame() {
   startDiv.setAttribute("class", "hide");
@@ -21,4 +26,3 @@ function startCountdown() {
 
 // Event listeners
 startButton.addEventListener("click", startGame);
-
