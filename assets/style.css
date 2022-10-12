@@ -10,7 +10,7 @@ nav {
   height: 55px;
   width: 100%;
 }
-h1 {
+h1 h2 {
   font-weight: bold;
   padding: 20px;
 }
@@ -33,6 +33,29 @@ button:hover {
   color: #0b8457;
   border: 1px solid #0b8457;
 }
+table {
+  width: 250px;
+  background-color: #0b8457;
+  color: white;
+  text-align: left;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+
+td {
+  border-bottom: 1px solid black;
+  padding: 5px 10px;
+}
+
+.hide {
+  display: none;
+}
+
+.choices {
+  display: block;
+  font-weight: normal;
+}
+
 #start-page {
   margin: 100px;
   text-align: center;
@@ -58,4 +81,14 @@ button:hover {
 #highScoresLink:hover {
   background-color: #0b8457;
   color: white;
+}
+#questions {
+  margin: 100px;
+  text-align: center;
+  font-weight: normal;
+}
+
+#endscreen {
+  margin: 100px;
+  text-align: center;
 }
