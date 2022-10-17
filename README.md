@@ -1,6 +1,6 @@
 # Coding-Quiz
 
-<a href="" title="Deployed Code Quiz" target="_blank">Deployed Site</a>
+<a href="https://l-jones-hub.github.io/Coding-Quiz/" title="Deployed Code Quiz" target="_blank">Deployed Site</a>
 
 ## Description
 
