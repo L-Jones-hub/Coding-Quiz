@@ -82,13 +82,17 @@ td {
   background-color: #0b8457;
   color: white;
 }
-#questions {
+#questions-page {
   margin: 100px;
   text-align: center;
   font-weight: normal;
 }
 
-#endscreen {
+#end-page {
   margin: 100px;
+  text-align: center;
+}
+
+#scores-page {
   text-align: center;
 }
